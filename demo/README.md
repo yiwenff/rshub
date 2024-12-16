@@ -14,7 +14,7 @@ RSHub utilizing **tokens** to run, query, and download results. Register your ac
 
     > This demo validate the modeled brightness temperature at 1.41 from VPT using SMAPVEX12 cite F5 measurements .
 
-- [x] **[Vegetation demo 2](https://github.com/zjuiEMLabrshub/blob/main/demo/Vegetation-demo-2.ipynb): Uniform vs. Layered Vegetation Brightness Temperature** 🌵🌲🌳🎍🎋🌾
+- [x] **[Vegetation demo 2](https://github.com/zjuiEMLabrshub/rshub/blob/main/demo/Vegetation-demo-2.ipynb): Uniform vs. Layered Vegetation Brightness Temperature** 🌵🌲🌳🎍🎋🌾
 
     > This demo compares the brightness temperature from uniformly and nonuniformly distributed vegetation covered land surfaces at 1.41 GHz based on the radiative transfer theory.
 
