@@ -10,21 +10,21 @@ RSHub utilizing **tokens** to run, query, and download results. Register your ac
 3. Explore scenario demos for a quick start
       
 #### Explore scenario demos
-- [x] **[Vegetation Validation](https://github.com/zjuiEMLab/RShub_demo/blob/main/Vegetation-Validation.ipynb): Validate passive VRT using SMAPVEX12 data** 🌵🌲🌳🎍🎋🌾
+- [x] **[Vegetation Validation](https://github.com/zjuiEMLab/rshub/blob/main/demo/Vegetation-Validation.ipynb): Validate passive VRT using SMAPVEX12 data** 🌵🌲🌳🎍🎋🌾
 
     > This demo validate the modeled brightness temperature at 1.41 from VPT using SMAPVEX12 cite F5 measurements .
 
-- [x] **[Vegetation demo 2](https://github.com/zjuiEMLab/RShub_demo/blob/main/Vegetation-demo-2.ipynb): Uniform vs. Layered Vegetation Brightness Temperature** 🌵🌲🌳🎍🎋🌾
+- [x] **[Vegetation demo 2](https://github.com/zjuiEMLabrshub/blob/main/demo/Vegetation-demo-2.ipynb): Uniform vs. Layered Vegetation Brightness Temperature** 🌵🌲🌳🎍🎋🌾
 
     > This demo compares the brightness temperature from uniformly and nonuniformly distributed vegetation covered land surfaces at 1.41 GHz based on the radiative transfer theory.
 
-- [x] **[Snow demo DMRT-QMS](https://github.com/zjuiEMLab/RShub_demo/blob/main/Snow-demo-DMRT-QMS.ipynb): Brightness temperature and backscatter of a three-layer snow scenario**
+- [x] **[Snow demo DMRT-QMS](https://github.com/zjuiEMLab/rshub/blob/main/demo/Snow-demo-DMRT-QMS.ipynb): Brightness temperature and backscatter of a three-layer snow scenario**
 
     > This demo estimates multilayer brightness temperature and/or backscatter of snow using DMRT-QMS model.
 
-- [x] **[Snow demo DMRT-BIC](https://github.com/zjuiEMLab/RShub_demo/blob/main/Snow-demo-DMRT-BIC.ipynb): Brightness temperature and backscatter of a three-layer Snow scenario**
+- [x] **[Snow demo DMRT-BIC](https://github.com/zjuiEMLab/rshub/blob/main/demo/Snow-demo-DMRT-BIC.ipynb): Brightness temperature and backscatter of a three-layer Snow scenario**
 
     > This demo estimates multilayer brightness temperature and/or backscatter of snow using DMRT-BIC model.
 
-- [x] **[Soil Model](https://github.com/zjuiEMLab/RShub_demo/blob/main/Soil-demo-1.ipynb)**
+- [x] **[Soil Model](https://github.com/zjuiEMLab/rshub/blob/main/demo/Soil-demo-1.ipynb)**
     > This demo estimates brightness temperature and/or backscatter of soil using NMM3D-VIE-DDA model.
